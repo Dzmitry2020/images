@@ -4,17 +4,7 @@
 # Html
 
 - [Install](#install-via-composer)
-- [Usage example](#usage-example)
-- [CRUD](#crud)
-    - [Adding data](#adding-data)
-    - [Reading data](#reading-data)
-    - [Updating data](#updating-data)
-    - [Data deletion](#data-deletion)
-- [Query builder](#query-builder)
-- [Error handling](#error-handling)
-- [Pagination](#pagination)
-
-
+- [Class diagram](#class-diagram)
 
 ## Install via composer
 
@@ -32,3 +22,4 @@ Example **composer.json** file
 
 ## Class diagram
 ![Class diagram](https://github.com/Dzmitry2020/images/raw/master/TexLab/Html/html_class_diagramm.png)
+
