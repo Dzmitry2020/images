@@ -5,7 +5,6 @@
 
 - [Install](#install-via-composer)
 - [Class diagram](#class-diagram)
-- 
 
 ## Install via composer
 
@@ -22,5 +21,5 @@ Example **composer.json** file
 ```
 
 ## Class diagram
-![Class diagram](https://github.com/Dzmitry2020/images/issues/1#issue-658802380 "Class diagram TexLab\HTML")
+![Class diagram](https://github.com/Dzmitry2020/images/raw/master/TexLab/Html/html_class_diagramm.png "Class diagram TexLab\HTML")
 
