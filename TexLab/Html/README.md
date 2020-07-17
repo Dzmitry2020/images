@@ -22,5 +22,5 @@ Example **composer.json** file
 ```
 
 ## Class diagram
-![Class diagram](https://github.com/Dzmitry2020/images/issues/1#issue-658802380 "Class diagram TexLab\HTML")
+![Class diagram](https://user-images.githubusercontent.com/63070193/87745183-ee785580-c7f5-11ea-9cda-29d7c90ecfd2.png "Class diagram TexLab\HTML")
 
