@@ -105,7 +105,7 @@ body {
 form {
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 300px;
 }
 
 input {
@@ -116,11 +116,12 @@ input {
     outline: none;
 }
 
-button {
+button, input[type='submit']{
     padding: 10px;
     background: #e3e3e3;
     border: unset;
     cursor: pointer;
+    border-radius: 4px;
 }
 ```
 
