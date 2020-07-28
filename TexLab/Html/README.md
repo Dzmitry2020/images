@@ -15,11 +15,14 @@ Example **composer.json** file
 ```
 {
     "require": {
-        "texlab/html": "^0.02"
+        "texlab/html": "^0.06"
     }
 }
 ```
 
 ## Class diagram
 ![Class diagram](https://github.com/Dzmitry2020/images/raw/master/TexLab/Html/html_class_diagramm.png "Class diagram TexLab\HTML")
+
+![Class diagram](https://github.com/Dzmitry2020/images/raw/master/TexLab/Html/html_class_diagramm_pagination.png "Class diagram pagination TexLab\HTML")
+
 
