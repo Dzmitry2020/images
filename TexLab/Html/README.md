@@ -39,6 +39,8 @@ Example **composer.json** file
 ## Usage example
 
 ### Create an authorization form
+PHP code:
+
 ```php
 <?php
 
@@ -84,7 +86,7 @@ $form->addInnerText(
 
 echo $form->html();
 ```
-
+CSS:
 ```css
 * {
     margin: 0;
